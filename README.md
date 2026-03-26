@@ -157,7 +157,7 @@ This project is for research and educational purposes.
 
 ## Acknowledgments
 
-- TOW-IDS Automotive Ethernet Intrusion Detection Dataset
+- Han, M. L., Kwak, B. I., & Kim, H. K. (2022). *TOW-IDS: intrusion detection system based on three overlapped wavelets for automotive ethernet.* IEEE TIFS
 - Akcay, S., Atapour-Abarghouei, A., & Breckon, T. P. (2018). *GANomaly: Semi-supervised Anomaly Detection via Adversarial Training.* ACCV.
 - Seo, E., Song, H. M., & Kim, H. K. (2018). *GIDS: GAN based Intrusion Detection System for In-Vehicle Network.* IEEE PPSC.
 - Li, D., Chen, D., Shi, L., Jin, B., Goh, J., & Ng, S.-K. (2019). *MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks.* ICANN.
