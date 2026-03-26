@@ -39,8 +39,7 @@ This project uses the **TOW-IDS Automotive Ethernet Intrusion Detection Dataset*
 - Test PCAP (normal + attack traffic)
 - Per-packet labels (`y_train.csv`, `y_test.csv`) with attack type annotations
 - Attack types: CAN DoS (C_D), CAN Replay (C_R), PTP sync (P_I), Injection (F_I), MAC Flooding (M_F)
-
-> **Note:** The dataset is not included in this repository. Update the file paths in the configuration cell to point to your local copy.
+- **Dataset Download Link**: [TOW-IDS Automotive Ethernet Intrusion Dataset](https://ieee-dataport.org/documents/tow-ids-automotive-ethernet-intrusion-dataset)
 
 ## Windowed Features
 
@@ -117,8 +116,8 @@ sudo apt install tshark
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kirankumar1597/TOW-IDS_ML.git
-   cd TOW-IDS_ML
+   git clone https://github.com/Kirankumar1597/TOW-IDS-ML.git
+   cd TOW-IDS-ML
    ```
 
 2. Update the file paths in **Cell 2 (Configuration)** to point to your dataset location:
