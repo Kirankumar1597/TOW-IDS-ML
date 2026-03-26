@@ -131,15 +131,6 @@ sudo apt install tshark
 
 3. Run all cells sequentially in Jupyter Notebook or JupyterLab.
 
-## Project Structure
-
-```
-TOW-IDS_ML/
-├── TOW-IDS ML.ipynb           # GAN-based & advanced ML models
-├── Diffusion-MTS-AD.ipynb     # Diffusion-based models (see separate README)
-└── README.md
-```
-
 ### Notebook Sections
 
 | # | Section | Description |
