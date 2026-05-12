@@ -1,0 +1,2 @@
+model,seed,scoring,roc_auc,pr_auc,f1,precision,recall,accuracy,thr_p99,TN,FP,FN,TP,params_total,params_GRU_AE,params_TCN_AE,params_GAT_AE,crit_1_pr_auc_ge_0985,crit_2_all_experts_ge_10pct,crit_3_GAT_ge_15pct_on_attack,crit_5_params_lt_250K
+MoE3 Option B,42,weighted_expert_mse,0.9703574542284219,0.9903338367702029,0.9079754601226994,0.8314606741573034,1.0,0.8324022346368715,0.12373708330094814,2,60,0,296,185846,64652,101836,15768,True,False,False,True
